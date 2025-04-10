@@ -18,4 +18,8 @@ Make sure the following are installed:
 - Google Chrome browser
 - ChromeDriver (compatible with your Chrome version)
 
+## Result
 
+The following snapshot is the result of the automation:
+
+<img src="python.png">
